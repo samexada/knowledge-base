@@ -8,6 +8,13 @@ so, do:
     cd C:/Users/???vasa???/
     git clone https://github.com/samexada/knowledge-base.git
     cd knowledge-base
-5. install Webstorm
+5. install WebStorm
 6. setup it.
 7. write the code!!!
+
+
+8. Quickly checkout the html syntax, and what's this?
+9. F12 is our all!
+10. include js to your project
+11. You Just Don't Know JS (first books of series)
+12. Add input of strings and present list of inserted ones in some lovely div
