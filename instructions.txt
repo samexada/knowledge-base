@@ -1,0 +1,13 @@
+1. install git by this link https://git-scm.com/download/win
+2. use git docs and read it if you have any problems https://git-scm.com/doc
+3. after installing you will have the git terminal, more over, just a terminal with common unix commands, so known, gitbash!
+4. to navigate there you need to use commands:
+    cd *dirName*
+    mkdir *dirName*
+so, do:
+    cd C:/Users/???vasa???/
+    git clone https://github.com/samexada/knowledge-base.git
+    cd knowledge-base
+5. install Webstorm
+6. setup it.
+7. write the code!!!
